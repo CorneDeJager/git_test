@@ -2,4 +2,6 @@
 var rats = 12;
 var cows = "moo";
 
-prompt("What is up");
+var text = prompt("What is up?");
+
+alert(text);
