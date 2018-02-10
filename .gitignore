@@ -1,0 +1,11 @@
+assets/photoshop/
+assets/vidios/
+!assets/videos/work_*.mp4
+._filetoignore.txt
+._index.html
+filetoignore.txt
+.DS_Store
+*.zip
+*.gs
+log/*.log
+
